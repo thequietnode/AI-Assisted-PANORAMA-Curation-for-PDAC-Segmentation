@@ -1,4 +1,4 @@
-# AI-Assisted Radiologist Curation of PANORAMA for PDAC Tumor Segmentation Benchmarking
+# AI-Assisted Radiologist Curation of PANORAMA for PDAC Tumor Segmentation Benchmarking and Quantitative Imaging Research
 
 ## Overview
 
